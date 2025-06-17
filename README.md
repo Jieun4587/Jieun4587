@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h3>🎯 기획자의 시각을 가진 개발자</h3>
+    <h3>기획자의 시각을 가진 개발자</h3>
     <p>사용자 중심의 가치를 만드는 개발자가 되겠습니다</p>
 </div>
 
@@ -63,12 +63,6 @@
     <a href="https://github.com/Jieun4587">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-</div>
-
----
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:E3F2FD&height=120&section=footer" />
 </div>
 
 
