@@ -4,7 +4,7 @@
 
 <div align="center">
     <h3>🎯 기획자의 시각을 가진 개발자</h3>
-    <p><em>사용자 중심의 가치를 만드는 개발자가 되겠습니다</em></p>
+    <p>사용자 중심의 가치를 만드는 개발자가 되겠습니다</p>
 </div>
 
 ---
@@ -34,11 +34,6 @@
 
 <div align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jieun4587&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun4587&layout=compact&langs_count=6&theme=vue"/>
-</div>
-
-<div align="center">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jieun4587&theme=vue" />
 </div>
 
 ---
@@ -77,8 +72,4 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:E3F2FD&height=120&section=footer" />
 </div>
 
-<div align="center">
-    
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJieun4587&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
-</div>
