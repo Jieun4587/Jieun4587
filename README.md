@@ -108,10 +108,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jieun4587&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jieun4587&layout=compact&theme=vue"/>
-</div>
+</div> -->
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=Jieun4587&theme=vue&hide_border=false" />
